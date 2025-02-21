@@ -1,3 +1,8 @@
+local QBCore = exports['qb-core']:GetCoreObject()
+
+
+
+
 local hostilePedConfig = {
     {
         model = `hc_hacker`,
